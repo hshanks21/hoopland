@@ -1,0 +1,66 @@
+short,city,name,file
+ALA,Alabama,Crimson Tide,ALA.png
+ARI,Arizona,Wildcats,ARI.png
+ASU,Arizona State,Sun Devils,ASU.png
+ARK,Arkansas,Razorbacks,ARK.png
+AUB,Auburn,Tigers,AUB.png
+BAY,Baylor,Bears,BAY.png
+BUT,Butler,Bulldogs,BUT.png
+BYU,BYU,Cougars,BYU.png
+CAL,California,Golden Bears,CAL.png
+CIN,Cincinnati,Bearcats,CIN.png
+CLEM,Clemson,Tigers,CLEM.png
+COL,Colorado,Buffaloes,COL.png
+CREI,Creighton,Blue Jays,CREI.png
+DUKE,Duke,Blue Devils,DUKE.png
+FLA,Florida,Gators,FLA.png
+FSU,Florida State,Seminoles,FSU.png
+GTN,Georgetown,Hoyas,GTN.png
+UGA,Georgia,Bulldogs,UGA.png
+GONZ,Gonzaga,Bulldogs,GONZ.png
+HOU,Houston,Cougars,HOU.png
+ILL,Illinois,Fighting Illini,ILL.png
+IU,Indiana,Hoosiers,IU.png
+IOWA,Iowa,Hawkeyes,IOWA.png
+ISU,Iowa State,Cyclones,ISU.png
+KU,Kansas,Jayhawks,KU.png
+KSU,Kansas State,Wildcats,KSU.png
+UK,Kentucky,Wildcats,UK.png
+LOU,Louisville,Cardinals,LOU.png
+MU,Marquette,Golden Eagles,MU.png
+MD,Maryland,Terrapins,MD.png
+MIA,Miami,Hurricanes,MIA.png
+MICH,Michigan,Wolverines,MICH.png
+MSU,Michigan State,Spartans,MSU.png
+MINN,Minnesota,Golden Gophers,MINN.png
+MSST,Mississippi State,Bulldogs,MSST.png
+UNC,North Carolina,Tar Heels,UNC.png
+ND,Notre Dame,Fighting Irish,ND.png
+OSU,Ohio State,Buckeyes,OSU.png
+MISS,Ole Miss,Rebels,MISS.png
+ORE,Oregon,Ducks,ORE.png
+PITT,Pittsburgh,Panthers,PITT.png
+PROV,Providence,Friars,PROV.png
+PUR,Purdue,Boilermakers,PUR.png
+RUT,Rutgers,Scarlet Knight,RUT.png
+SH,Seton Hall,Pirates,SH.png
+SC,South Carolina,Gamecocks,SC.png
+SJU,St. John’s,Red Storm,SJU.png
+STAN,Stanford,Cardinal,STAN.png
+TCU,TCU,Horned Frogs,TCU.png
+TEN,Tennessee,Volunteers,TEN.png
+TEX,Texas,Longhorns,TEX.png
+TAMU,Texas A&M,Aggies,TAMU.png
+TTU,Texas Tech,Red Raiders,TTU.png
+UCLA,UCLA,Bruins,UCLA.png
+CONN,UConn,Huskies,CONN.png
+USC,USC,Trojans,USC.png
+UTAH,Utah,Utes,UTAH.png
+NOVA,Villanova,Wildcats,NOVA.png
+UVA,Virginia,Cavaliers,UVA.png
+WK,Wake Forest,Demon Deacons,WK.png
+WASH,Washington,Huskies,WASH.png
+WVU,West Virginia,Mountaineers,WVU.png
+WIS,Wisconsin,Badgers,WIS.png
+XAV,Xavier,Musketeers,XAV.png
+NCAA,Men's College Basketball,League,NCAA.png
