@@ -1,0 +1,19 @@
+short,name,logo_file,court_file,extras
+ILL,Illinois,ILL-logo.png,ILL-court.png,jersey,court2
+IU,Indiana,IU-logo.png,IU-court.png,jersey,court2
+IOWA,Iowa,IOWA-logo.png,IOWA-court.png,jersey
+MD,Maryland,MD-logo.png,MD-court.png,jersey
+MICH,Michigan,MICH-logo.png,MICH-court.png,jersey
+MSU,Michigan State,MSU-logo.png,MSU-court.png,jersey,court2
+MINN,Minnesota,MINN-logo.png,MINN-court.png,jersey,court2
+NEB,Nebraska,NEB-logo.png,NEB-court.png,jersey
+NW,Northwestern,NW-logo.png,NW-court.png,jersey
+OSU,Ohio State,OSU-logo.png,OSU-court.png,jersey
+ORE,Oregon,ORE-logo.png,ORE-court.png,jersey,court2
+PSU,Penn State,PSU-logo.png,PSU-court.png,jersey
+PUR,Purdue,PUR-logo.png,PUR-court.png,jersey,ads
+RUT,Rutgers,RUT-logo.png,RUT-court.png,jersey
+UCLA,UCLA,UCLA-logo.png,UCLA-court.png,jersey
+USC,USC,USC-logo.png,USC-court.png,jersey
+WASH,Washington,WASH-logo.png,WASH-court.png,jersey
+WIS,Wisconsin,WIS-logo.png,WIS-court.png,jersey,court2
